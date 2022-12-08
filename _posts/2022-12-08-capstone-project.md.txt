@@ -7,7 +7,9 @@ tags: [jekyll, ai]
 ---
 
 期末專題實作 試穿衣服
-
+###
+系統測試成果展示
+<iframe width="684" height="385" src="https://www.youtube.com/embed/DtzN5vtEgOk" title="RL-Robocar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
